@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\odev-1\bin\Debug\net7.0\ödev-1.exe
+C:\Users\beyza\Desktop\C#\odev-1\bin\Debug\net7.0\ödev-1.deps.json
+C:\Users\beyza\Desktop\C#\odev-1\bin\Debug\net7.0\ödev-1.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\odev-1\bin\Debug\net7.0\ödev-1.dll
+C:\Users\beyza\Desktop\C#\odev-1\bin\Debug\net7.0\ödev-1.pdb
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ödev-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ödev-1.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ödev-1.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ödev-1.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ödev-1.dll
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\refint\ödev-1.dll
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ödev-1.pdb
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ödev-1.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\odev-1\obj\Debug\net7.0\ref\ödev-1.dll
